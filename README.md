@@ -1,4 +1,3 @@
 hello-world
 ===========
-
-jast first repo
+I'm shawn.
